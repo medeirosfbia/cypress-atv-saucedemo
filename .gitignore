@@ -1,0 +1,5 @@
+node_modules
+*.docx
+cypress/videos
+cypress/screenshots
+
